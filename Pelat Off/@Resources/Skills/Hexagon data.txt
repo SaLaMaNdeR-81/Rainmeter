@@ -1,0 +1,6 @@
+Bottom base width = 242 pixel
+Let spacing = 3 pixel
+Height = 233 pixel
+
+To stick to diagonal side, you need to change the x coordinate by 245 pixel and y coordinate by 118 pixel
+To stick to top side, change y coordinate by 236 pixel.
