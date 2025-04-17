@@ -58,9 +58,9 @@ SubMenu-2.1_Title = NekoRay
 SubMenu-2.1_Icon = [SubMenu-2]NekoRay.png
 SubMenu-2.1_Action = ["C:\Users\amahd\Downloads\nekoray\nekoray.exe"]
 
-SubMenu-2.2_Title = Ubsoft Connect
-SubMenu-2.2_Icon = [SubMenu-2]Ubisoft.png
-SubMenu-2.2_Action = ["C:\Program Files (x86)\Ubisoft\Ubisoft Game Launcher\UbisoftConnect.exe"]
+SubMenu-2.2_Title = Telegram
+SubMenu-2.2_Icon = [SubMenu-2]Telegram.png
+SubMenu-2.2_Action = ["C:\Users\amahd\AppData\Roaming\Telegram Desktop\Telegram.exe"]
 
 SubMenu-2.3_Title = TeamSpeak
 SubMenu-2.3_Icon = [SubMenu-2]TeamSpeak.png
